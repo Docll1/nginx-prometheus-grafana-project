@@ -1,0 +1,2 @@
+docker exec -it alertmanager env | grep TG_
+
